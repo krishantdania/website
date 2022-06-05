@@ -1,7 +1,7 @@
 # Krishant Dania
 
 
-# EDUCATION
+## Education
 
     William & Mary Law School - Expected May 2023
       Juris Doctor
@@ -10,7 +10,7 @@
       BA: Government and Psychology
       Minor: Business
 
-# WORK EXPERIENCE
+## Work Experience
 
     The Office of the Colorado Public Defender: May 2022-Present
     - Certified Legal Intern
@@ -20,5 +20,3 @@
 
     Cain & Abel's Bar and Grill: April 2017-July 2020
     - Bartender
-
-    
