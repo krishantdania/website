@@ -12,11 +12,11 @@
 
 ## Work Experience
 
-    The Office of the Colorado Public Defender: May 2022-Present
+    The Office of the Colorado State Public Defender: May 2022-Present
     - Certified Legal Intern
 
-    The Office of the Colorado Public Defender: May 2021-August 2021
+    The Office of the Colorado State Public Defender: May 2021-August 2021
     - Legal Intern
-
+    
     Cain & Abel's Bar and Grill: April 2017-July 2020
     - Bartender
